@@ -1,6 +1,6 @@
 Reddit Client
 
-![](reddit-client.png)
+![](redditclient.png)
 
 A browser-based Reddit client that displays multiple subreddits in separate, customizable lanes.
 
